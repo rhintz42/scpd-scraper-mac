@@ -1,0 +1,40 @@
+Nanophotonics->ee336
+Digital Communication->ee379
+Colloquium on Computer Systems->ee380
+The Spirit of Entrepreneurship->msande178
+Accounting for Managers and Entrepreneurs->msande240
+Economic Analysis->msande241
+Engineering Risk Analysis->msande250a
+Management of New Product Development->msande266
+Global Entrepreneurial Marketing->msande271
+Dynamic Entrepreneurial Strategy->msande274
+Entrepreneurial Thought Leaders' Seminar->msande472
+Good Products, Bad Products->me314
+Design Methods: Product Definition->me317a
+Paradigms for Computing with Data->stats290
+Analysis of Structures->aa240b
+Aircraft and Rocket Propulsion->aa283
+Computational Molecular Biology->bioc218
+Biodesign Innovation: Needs Finding and Concept Creation->bioe375a
+Energy: Chemical Transformations for Production, Storage, and Use->chemeng25e
+Partial Differential Equations in Engineering->cme204
+Numerical Optimization->cme304
+Mathematical Foundations of Computing->cs103
+Programming Methodology->cs106a
+Object-Oriented Systems Design->cs108
+Principles of Computer Systems->cs110
+Parallel Computing->cs149
+Introduction to Automata and Complexity Theory->cs154
+Introduction to Robotics->cs223a
+Advanced Topics in Operating Systems->cs240
+Program Analysis and Optimizations->cs243
+Database Systems Principles->cs245
+Mining Massive Data Sets->cs246
+Introduction to Cryptography->cs255
+Human-Computer Interaction Seminar->cs547
+Digital Systems II->ee108b
+Advanced Analog Integrated Circuit Design->ee214b
+The Entrepreneurial Engineer->ee203
+Introduction to Digital Communication->ee279
+Power Electronics->ee292J
+Digital MOS Integrated Circuits->ee313

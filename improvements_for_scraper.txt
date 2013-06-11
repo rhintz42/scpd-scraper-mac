@@ -1,0 +1,32 @@
+IMPROVEMENTS TO COME:
+1) Add a "download_history.txt" file that, for each file started,
+    appends the file so that you can view all the videos downloaded
+2) Check to see if I can get the size of the file before downloading it through a mimms call
+3) Have the videos include whether it's a problem session or lecture
+	- Currently have problem where if problem session is on day, the titles are the same, so one won't download
+4) Add a method "Test if maybe corrupted file" method.
+	- Check if file is in "Files Not Corrupted.txt"
+		- If in there, not a corrupted file
+	- If it may be a corrupted file, put it in "Corrupted Files.txt"
+	- If it's not corrupted, then just continue
+
+
+
+
+
+
+
+CURRENTLY IN "scrape_improvements.py":
+
+
+
+
+
+
+
+
+DONE:
+- Make it so that can show the video classification (Like "cs106a") after the video name. This would allow to see what folder to look in to see the progress of the videos being downloaded.
+- Add a file "current_courses_downloading.txt" that would include just the current courses being downloaded at that time
+
+
