@@ -19,6 +19,11 @@ Unfortunately, there are lots of dependencies to get it up and running
 2. BeautifulSoup for parsing: http://www.crummy.com/software/BeautifulSoup/
 3. Mechanize for emulating a browser, http://wwwsearch.sourceforge.net/mechanize/
 
+You'll also have to download these if not already downloaded
+1. Homebrew, for downloading mplayer: http://mxcl.github.io/homebrew/
+2. MPlayer, for downloading video from website to file: install this by
+    issueing this command in your terminal after installing mplayer: brew install mplayer
+
 To run:
 Change to your username
 When prompted, type your password
@@ -34,8 +39,8 @@ called watched.
 
 num_vids_already_downloaded = 0
 first_class = ""
-current_folder = "/home/roberth/scpd-scraper"
-courses_to_download_local_txt = "test_courses_to_download.txt"
+current_folder = "/home/roberth/scpd-scraper" #Put the directory that the scrape.py file is in
+courses_to_download_local_txt = "courses_to_download.txt"
 
 def _file_exists(file):
 	return os.path.isfile(file)
